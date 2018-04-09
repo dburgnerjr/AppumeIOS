@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		230097BB207AFBC600AA491C /* MainMenuCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 230097BA207AFBC600AA491C /* MainMenuCell.swift */; };
+		230097BD207AFCF600AA491C /* MainMenuTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 230097BC207AFCF600AA491C /* MainMenuTableViewController.swift */; };
 		239D9441207ACC3700C1B299 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 239D9440207ACC3700C1B299 /* AppDelegate.swift */; };
 		239D9443207ACC3700C1B299 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 239D9442207ACC3700C1B299 /* ViewController.swift */; };
 		239D9446207ACC3700C1B299 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 239D9444207ACC3700C1B299 /* Main.storyboard */; };
@@ -15,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		230097BA207AFBC600AA491C /* MainMenuCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainMenuCell.swift; sourceTree = "<group>"; };
+		230097BC207AFCF600AA491C /* MainMenuTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainMenuTableViewController.swift; sourceTree = "<group>"; };
 		239D943D207ACC3700C1B299 /* Appume.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Appume.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		239D9440207ACC3700C1B299 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		239D9442207ACC3700C1B299 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -55,6 +59,8 @@
 			isa = PBXGroup;
 			children = (
 				239D9440207ACC3700C1B299 /* AppDelegate.swift */,
+				230097BA207AFBC600AA491C /* MainMenuCell.swift */,
+				230097BC207AFCF600AA491C /* MainMenuTableViewController.swift */,
 				239D9442207ACC3700C1B299 /* ViewController.swift */,
 				239D9444207ACC3700C1B299 /* Main.storyboard */,
 				239D9447207ACC3700C1B299 /* Assets.xcassets */,
@@ -138,6 +144,8 @@
 			files = (
 				239D9443207ACC3700C1B299 /* ViewController.swift in Sources */,
 				239D9441207ACC3700C1B299 /* AppDelegate.swift in Sources */,
+				230097BB207AFBC600AA491C /* MainMenuCell.swift in Sources */,
+				230097BD207AFCF600AA491C /* MainMenuTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
