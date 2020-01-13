@@ -14,6 +14,8 @@
 		239D9446207ACC3700C1B299 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 239D9444207ACC3700C1B299 /* Main.storyboard */; };
 		239D9448207ACC3700C1B299 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 239D9447207ACC3700C1B299 /* Assets.xcassets */; };
 		239D944B207ACC3700C1B299 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 239D9449207ACC3700C1B299 /* LaunchScreen.storyboard */; };
+		73CDC88323CBFB1900EAB55B /* appume_banner.png in Resources */ = {isa = PBXBuildFile; fileRef = 73CDC88223CBFB1900EAB55B /* appume_banner.png */; };
+		73CDC88523CBFB2200EAB55B /* ic_appume_highres.png in Resources */ = {isa = PBXBuildFile; fileRef = 73CDC88423CBFB2200EAB55B /* ic_appume_highres.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		239D9447207ACC3700C1B299 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		239D944A207ACC3700C1B299 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		239D944C207ACC3700C1B299 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		73CDC88223CBFB1900EAB55B /* appume_banner.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = appume_banner.png; path = /Users/danielburgner/Documents/GitHub/AppumeIOS/Appume/appume_banner.png; sourceTree = "<absolute>"; };
+		73CDC88423CBFB2200EAB55B /* ic_appume_highres.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_appume_highres.png; path = ../../../../Users/danielburgner/Documents/GitHub/AppumeIOS/Appume/ic_appume_highres.png; sourceTree = DEVELOPER_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,6 +46,8 @@
 		239D9434207ACC3700C1B299 = {
 			isa = PBXGroup;
 			children = (
+				73CDC88223CBFB1900EAB55B /* appume_banner.png */,
+				73CDC88423CBFB2200EAB55B /* ic_appume_highres.png */,
 				239D943F207ACC3700C1B299 /* Appume */,
 				239D943E207ACC3700C1B299 /* Products */,
 			);
@@ -130,8 +136,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				239D944B207ACC3700C1B299 /* LaunchScreen.storyboard in Resources */,
+				73CDC88323CBFB1900EAB55B /* appume_banner.png in Resources */,
 				239D9448207ACC3700C1B299 /* Assets.xcassets in Resources */,
 				239D9446207ACC3700C1B299 /* Main.storyboard in Resources */,
+				73CDC88523CBFB2200EAB55B /* ic_appume_highres.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
